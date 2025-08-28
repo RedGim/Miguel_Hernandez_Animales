@@ -1,6 +1,10 @@
 ﻿Console.WriteLine("Hello, World!");
+<<<<<<< HEAD
 
 Console.WriteLine("hiii");
+=======
+Console.WriteLine("hola hola");
+>>>>>>> ca1d11a692da0a22bacdcb0da776f0cb5379678d
 public class Especies{
     public int id;
     public string? nombre;
