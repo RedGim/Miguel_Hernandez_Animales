@@ -1,0 +1,15 @@
+C:\Users\salak301\Desktop\Miguel_Hernandez_Animales\AppCon\bin\Debug\net8.0\AppCon.exe
+C:\Users\salak301\Desktop\Miguel_Hernandez_Animales\AppCon\bin\Debug\net8.0\AppCon.deps.json
+C:\Users\salak301\Desktop\Miguel_Hernandez_Animales\AppCon\bin\Debug\net8.0\AppCon.runtimeconfig.json
+C:\Users\salak301\Desktop\Miguel_Hernandez_Animales\AppCon\bin\Debug\net8.0\AppCon.dll
+C:\Users\salak301\Desktop\Miguel_Hernandez_Animales\AppCon\bin\Debug\net8.0\AppCon.pdb
+C:\Users\salak301\Desktop\Miguel_Hernandez_Animales\AppCon\obj\Debug\net8.0\AppCon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak301\Desktop\Miguel_Hernandez_Animales\AppCon\obj\Debug\net8.0\AppCon.AssemblyInfoInputs.cache
+C:\Users\salak301\Desktop\Miguel_Hernandez_Animales\AppCon\obj\Debug\net8.0\AppCon.AssemblyInfo.cs
+C:\Users\salak301\Desktop\Miguel_Hernandez_Animales\AppCon\obj\Debug\net8.0\AppCon.csproj.CoreCompileInputs.cache
+C:\Users\salak301\Desktop\Miguel_Hernandez_Animales\AppCon\obj\Debug\net8.0\AppCon.sourcelink.json
+C:\Users\salak301\Desktop\Miguel_Hernandez_Animales\AppCon\obj\Debug\net8.0\AppCon.dll
+C:\Users\salak301\Desktop\Miguel_Hernandez_Animales\AppCon\obj\Debug\net8.0\refint\AppCon.dll
+C:\Users\salak301\Desktop\Miguel_Hernandez_Animales\AppCon\obj\Debug\net8.0\AppCon.pdb
+C:\Users\salak301\Desktop\Miguel_Hernandez_Animales\AppCon\obj\Debug\net8.0\AppCon.genruntimeconfig.cache
+C:\Users\salak301\Desktop\Miguel_Hernandez_Animales\AppCon\obj\Debug\net8.0\ref\AppCon.dll
