@@ -12,7 +12,7 @@ public class Ubicacion{
     public int id;
     public string? ciudad;
     public string? pais;
-    public List<Animales>? lnimales;
+    public List<Animales>? animales;
     public List<Lugares>? lugares;
 
 }
@@ -22,6 +22,10 @@ public class Animales {
     public string? nombre_vulgar;
     public int edad;
     public DateTime fecha_nacimiento;
+    public Lugares? lugares;
+    public Ubicacion? ubicacion;
+    public Especies? especies;
+
    
 }
 
@@ -30,6 +34,7 @@ public class Lugares {
     public string? nombre;
     public decimal presupuesto;
     public int numero_animales;
+    public Ubicacion? ubicacion;
     public List<Animales>? animales;
 
 }
