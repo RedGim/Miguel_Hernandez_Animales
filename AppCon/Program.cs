@@ -8,7 +8,7 @@ public class Especies{
     
 }
 
-public class Ubicacion{
+public class Ubicaciones{
     public int id;
     public string? ciudad;
     public string? pais;
@@ -23,7 +23,7 @@ public class Animales {
     public int edad;
     public DateTime fecha_nacimiento;
     public Lugares? lugares;
-    public Ubicacion? ubicacion;
+    public Ubicaciones? ubicacion;
     public Especies? especies;
 
    
@@ -34,7 +34,7 @@ public class Lugares {
     public string? nombre;
     public decimal presupuesto;
     public int numero_animales;
-    public Ubicacion? ubicacion;
+    public Ubicaciones? ubicacion;
     public List<Animales>? animales;
 
 }
