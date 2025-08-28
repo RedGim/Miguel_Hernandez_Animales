@@ -1,5 +1,5 @@
 ﻿Console.WriteLine("Hello, World!");
-
+console.writeLine("Hola Hola");
 public class Especies{
     public int id;
     public string? nombre;
